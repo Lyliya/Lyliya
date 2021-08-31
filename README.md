@@ -9,10 +9,10 @@
 
 ## Tech
 - 💻 C | C++ | C# | Python
-- 🌐 HTML | CSS | JavaScript | Bootstrap | Node.js | TypeScript
-- 📱 SwiftUI | Ionic
-- 🛢 MySQL | MongoDB
-- 🔧 Git | Markdown | Docker
+- 🌐 HTML | CSS | JavaScript | Bootstrap | Node.js | TypeScript | React.js
+- 📱 SwiftUI | Ionic | React Native
+- 🛢 SQL | MongoDB
+- 🔧 Git | Markdown | Docker | Kubernetes
 - 🤖 Arduino | Raspberry Pi
 
 ## Connect with me
