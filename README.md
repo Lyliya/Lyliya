@@ -4,7 +4,7 @@
 - 🇫🇷 French developer and Freelancer
 - 🧑‍💻 Studying at Epitech Paris
 - ⚽ Creator of [RocketStats][rocketstats] and [Highlights][highlights]
-- 💼 Worked for [Daneel.io][daneel], [Kilometer][kilometer], [Assemblee][assemblee], [Lexboard][lexboar]
+- 💼 Worked for [Daneel.io][daneel], [Kilometer][kilometer], [Assemblee][assemblee], [Lexboard][lexboard]
 - 🎮🏃 Video game and [speedrun][speedrun] lover
 
 ## Tech
