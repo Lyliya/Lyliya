@@ -3,13 +3,13 @@
 ## About Me
 - 🇫🇷 French developer and Freelancer
 - 🧑‍💻 Studying at Epitech Paris
-- ⚽ Creator of [RocketStats][rocketstats]
-- 💼 Working for [Daneel.io][daneel], [Kilometer][kilometer], [Assemblee][assemblee]
+- ⚽ Creator of [RocketStats][rocketstats] and [Highlights][highlights]
+- 💼 Worked for [Daneel.io][daneel], [Kilometer][kilometer], [Assemblee][assemblee], [Lexboard][lexboar]
 - 🎮🏃 Video game and [speedrun][speedrun] lover
 
 ## Tech
 - 💻 C | C++ | C# | Python
-- 🌐 HTML | CSS | JavaScript | Bootstrap | Node.js | TypeScript | React.js
+- 🌐 HTML | CSS | JavaScript | Bootstrap | Node.js | TypeScript | React.js | VueJS
 - 📱 SwiftUI | Ionic | React Native
 - 🛢 SQL | MongoDB
 - 🔧 Git | Markdown | Docker | Kubernetes
@@ -33,3 +33,5 @@
 [instagram]: https://www.instagram.com/lyliya__/
 [email]: mailto:guillaume.guerin@epitech.eu
 [malt]: https://www.malt.fr/profile/guillaumeguerin2
+[lexboard]: https://lexboard.fr/
+[highlights]: https://highlights.lyliya.fr/
