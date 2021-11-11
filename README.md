@@ -1,8 +1,10 @@
 # Hey there, I'm Guillaume aka Lyliya 👋
 
+[My website](https://lyliya.github.io/)
+
 ## About Me
 - 🇫🇷 French developer and Freelancer
-- 🧑‍💻 Studying at Epitech Paris
+- 🧑‍💻 Graduated from Epitech Paris
 - ⚽ Creator of [RocketStats][rocketstats] and [Highlights][highlights]
 - 💼 Worked for [Daneel.io][daneel], [Kilometer][kilometer], [Assemblee][assemblee], [Lexboard][lexboard]
 - 🎮🏃 Video game and [speedrun][speedrun] lover
