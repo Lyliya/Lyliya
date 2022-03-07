@@ -3,7 +3,8 @@
 [My website](https://lyliya.github.io/)
 
 ## About Me
-- 🇫🇷 French developer and Freelancer
+- 💻 Front-end developer at Jellysmack
+- 🇫🇷 French
 - 🧑‍💻 Graduated from Epitech Paris
 - ⚽ Creator of [RocketStats][rocketstats] and [Highlights][highlights]
 - 💼 Worked for [Daneel.io][daneel], [Kilometer][kilometer], [Assemblee][assemblee], [Lexboard][lexboard]
