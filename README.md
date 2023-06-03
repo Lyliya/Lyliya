@@ -3,19 +3,19 @@
 [My website](https://lyliya.github.io/)
 
 ## About Me
-- 💻 Front-end developer at Jellysmack
+- 💻 Front-end developer at Prestashop
 - 🇫🇷 French
 - 🧑‍💻 Graduated from Epitech Paris
 - ⚽ Creator of [RocketStats][rocketstats] and [Highlights][highlights]
-- 💼 Worked for [Daneel.io][daneel], [Kilometer][kilometer], [Assemblee][assemblee], [Lexboard][lexboard]
+- 💼 Worked for [Daneel.io][daneel], [Kilometer][kilometer], [Assemblee][assemblee], [Lexboard][lexboard], [Jellysmack][jellysmack]
 - 🎮🏃 Video game and [speedrun][speedrun] lover
 
 ## Tech
 - 💻 C | C++ | C# | Python
-- 🌐 HTML | CSS | JavaScript | Bootstrap | Node.js | TypeScript | React.js | VueJS
+- 🌐 HTML | CSS | JavaScript | TypeScript | Node.js | React.js | VueJS
 - 📱 SwiftUI | Ionic | React Native
 - 🛢 SQL | MongoDB
-- 🔧 Git | Markdown | Docker | Kubernetes
+- 🔧 Git | Markdown | Docker
 - 🤖 Arduino | Raspberry Pi
 
 ## Connect with me
@@ -38,3 +38,4 @@
 [malt]: https://www.malt.fr/profile/guillaumeguerin2
 [lexboard]: https://lexboard.fr/
 [highlights]: https://highlights.lyliya.fr/
+[jellysmack]: https://jellysmack.com/fr/
