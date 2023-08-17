@@ -3,11 +3,11 @@
 [My website](https://lyliya.github.io/)
 
 ## About Me
-- 💻 Front-end developer at Prestashop
+- 💻 Looking for a Job !
 - 🇫🇷 French
 - 🧑‍💻 Graduated from Epitech Paris
 - ⚽ Creator of [RocketStats][rocketstats] and [Highlights][highlights]
-- 💼 Worked for [Daneel.io][daneel], [Kilometer][kilometer], [Assemblee][assemblee], [Lexboard][lexboard], [Jellysmack][jellysmack]
+- 💼 Worked for [Daneel.io][daneel], [Kilometer][kilometer], [Assemblee][assemblee], [Lexboard][lexboard], [Jellysmack][jellysmack], [Prestashop][prestashop]
 - 🎮🏃 Video game and [speedrun][speedrun] lover
 
 ## Tech
@@ -39,3 +39,4 @@
 [lexboard]: https://lexboard.fr/
 [highlights]: https://highlights.lyliya.fr/
 [jellysmack]: https://jellysmack.com/fr/
+[prestashop]: https://prestashop.fr/
