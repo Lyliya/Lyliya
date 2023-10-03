@@ -3,7 +3,7 @@
 [My website](https://lyliya.github.io/)
 
 ## About Me
-- 💻 Looking for a Job !
+- 💻 Front-end Engineer at PlayPlay
 - 🇫🇷 French
 - 🧑‍💻 Graduated from Epitech Paris
 - ⚽ Creator of [RocketStats][rocketstats] and [Highlights][highlights]
