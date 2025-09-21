@@ -20,10 +20,9 @@
 
 ## Connect with me
 
-[![Twitter](https://img.shields.io/twitter/follow/Lyliiya?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Guillaume%20Guerin-blue?style=for-the-badge&logo=linkedin)][linkedin]
-[![Instagram](https://img.shields.io/badge/Instagram-Lyliya__-e1306c?style=for-the-badge&logo=instagram)][instagram]
 [![Email](https://img.shields.io/badge/Email-guerin.dev@gmail.com-red?style=for-the-badge&logo=gmail)][email]
+![LegoBuilding](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi-lego.lyliya.fr%2Fuser%2Fea9a3f57-60b8-4360-befa-9f9e451c6893%2Fbuilding&query=%24.fullname&style=for-the-badge&label=Building&labelColor=FFD700&color=DA291C)
 
 [rocketstats]: https://bakkesplugins.com/plugins/view/30
 [twitter]: https://twitter.com/Lyliiya
